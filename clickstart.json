@@ -1,0 +1,11 @@
+{
+    "id": "activiti-explorer-5.12",
+    "name": "Activiti Explorer 5.12",
+    "app-package": "http://jorambarrez.be/files/activiti-cloudbees-clickstart/activiti-explorer.war",
+    "description": "Activiti Explorer 5.12 Demo",
+    "app-package-type": "war",
+    "runtime": {
+        "type": "tomcat",
+        "stickySession" : true
+    }
+}
