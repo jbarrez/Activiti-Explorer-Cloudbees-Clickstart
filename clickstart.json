@@ -2,7 +2,7 @@
     "id": "activiti-explorer-5.12",
     "name": "Activiti Explorer 5.12",
     "app-package": "http://jorambarrez.be/files/activiti-cloudbees-clickstart/activiti-explorer.war",
-    "description": "Activiti Explorer 5.12 Demo",
+    "description": "Activiti Explorer 5.12 Demo. Uses a H2 in-memory database. log in using kermit/kermit, fozzie/fozzie or gonzo/gonzo",
     "app-package-type": "war",
     "runtime": {
         "type": "tomcat",
